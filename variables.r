@@ -1,4 +1,5 @@
 # This is the document where I learn introductory R.
+#January 5, 2016 by Robyn J Burnham
 dist10 <--rnorm(10)
 x<-1 #
 # start lines with hashes to separate sections
