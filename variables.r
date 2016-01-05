@@ -1,4 +1,5 @@
 # This is the document where I learn introductory R.
+dist10 <--rnorm(10)
 x<-1 #
 # start lines with hashes to separate sections
 y<-x*x
